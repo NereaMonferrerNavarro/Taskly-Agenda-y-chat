@@ -1,0 +1,44 @@
+Arguments: 
+  C:\Users\Nitro\.gradle\nodejs\node-v22.0.0-win-x64\node.exe C:\Users\Nitro\.gradle\yarn\yarn-v1.22.17\bin\yarn.js --ignore-scripts
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Nitro\AppData\Local\Microsoft\WindowsApps;
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  22.0.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EISDIR: illegal operation on a directory, symlink 'D:\2026\2DAM\DI\Taskly_KMP_AndroidStudio\build\js\packages\composeApp-test' -> 'D:\2026\2DAM\DI\Taskly_KMP_AndroidStudio\build\js\node_modules\composeApp-test'
+
+npm manifest: 
+  {
+    "name": "Taskly",
+    "version": "unspecified",
+    "private": true,
+    "workspaces": [
+      "packages\\composeApp",
+      "packages\\composeApp-test",
+      "packages_imported\\skiko-wasm-js\\0.8.18",
+      "packages_imported\\skiko-js-wasm-runtime\\0.8.18",
+      "packages_imported\\Kotlin-DateTime-library-kotlinx-datetime-wasm-js\\0.6.0",
+      "packages_imported\\kotlin-test-js-runner\\0.0.2"
+    ],
+    "devDependencies": {},
+    "dependencies": {},
+    "peerDependencies": {},
+    "optionalDependencies": {},
+    "bundledDependencies": [],
+    "resolutions": {}
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

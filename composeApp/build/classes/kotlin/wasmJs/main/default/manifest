@@ -1,0 +1,11 @@
+abi_version=1.8.0
+builtins_platform=WASM
+compiler_version=2.0.21
+depends=components.resources\:library org.jetbrains.compose.material3\:material3 org.jetbrains.compose.material\:material-ripple org.jetbrains.compose.foundation\:foundation org.jetbrains.compose.animation\:animation org.jetbrains.compose.material\:material-icons-core org.jetbrains.compose.foundation\:foundation-layout org.jetbrains.compose.ui\:ui org.jetbrains.kotlinx\:kotlinx-browser org.jetbrains.compose.animation\:animation-core org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu org.jetbrains.compose.runtime\:runtime-saveable kotlin org.jetbrains.compose.runtime\:runtime org.jetbrains.compose.ui\:ui-text org.jetbrains.compose.ui\:ui-graphics org.jetbrains.compose.ui\:ui-unit org.jetbrains.skiko\:skiko org.jetbrains.compose.ui\:ui-geometry org.jetbrains.compose.ui\:ui-util
+ir_signature_versions=1,2
+jsOutputName=composeApp
+metadata_version=1.4.1
+serializedIrFileFingerprints=3nwswj0wf75qm.282cewvne7qst 2uumc2cbttc5m.2k5vu6prfcqew 10cff3mg89ut1.1ly45dh1e1ly5 yy5r5k73fdso.pmb7nf8r667f 10r6f95juz8m2.3higl9rktbfb8 25igy3nimkxum.1w9fqx5j8x8fg
+serializedKlibFingerprint=33q17l2xrpxnr.dbdlb1ehc7u8
+unique_name=Taskly\:composeApp
+wasm_targets=wasm-js
